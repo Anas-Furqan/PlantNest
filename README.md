@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/anas-furqan/plant-nest.git
+git clone https://github.com/Anas-Furqan/PlantNest.git
 
 # Navigate to the project directory
 cd plant-nest
